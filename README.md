@@ -5,7 +5,7 @@
 - 🥖 Baking
 - 🍎 Trying new food
 
-## Currently: Discovering how to use Github  
+## Currently: Discovering Github  
 - [LinkedIn](https://www.linkedin.com/in/jeanettecsu/)
 <!--
 **jenetsu/jenetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
