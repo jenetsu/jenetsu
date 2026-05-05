@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-I like watching chinese dramas, baking and eating food. My projects will probably be dedicated to that. 
+## What I like:
+- Watching chinese dramas
+- Baking
+- Trying new food
+
+## Currently: Discovering how to use Github  
 
 <!--
 **jenetsu/jenetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
